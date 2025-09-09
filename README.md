@@ -31,3 +31,10 @@ Breve explicación del proyecto: ¿qué problema resuelve? ¿Cuál es su alcance
 - **Scripts DB**: si tienes migraciones o SQL, indícalo en la sección de instalación.
 - **Guía de estilo**: si sigues convenciones de C#, reglas de commits, pre-commit hooks, etc.
 
+-------
+📬 Contacto
+
+👨‍💻 Autor: Eduardo (pisangas)
+
+🔗 GitHub: @pisangas
+
